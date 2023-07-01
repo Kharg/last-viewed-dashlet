@@ -1,5 +1,5 @@
 # Module - Last Viewed Dashlet
-This Extension adds a new entity called File Sharing to share files publicly.
+This Extension adds a new dashlet that shows the last viewed records for the current user.
 
 ## Table of Contents
 
