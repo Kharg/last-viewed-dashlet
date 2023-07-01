@@ -16,7 +16,7 @@ This Extension adds a new dashlet that shows the last viewed records for the cur
 After installation visit your dashboard and add the Last Viewed dashlet to start using the extension.
 
 
-![image](https://github.com/Kharg/last-viewed-dashlet/assets/32223252/c3b724d4-b758-4d11-9117-40868a2c82f8)
+![image](https://github.com/Kharg/last-viewed-dashlet/assets/32223252/1a032c22-5ba1-403e-80e9-e5925c3bdc82)
 
 
 
