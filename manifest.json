@@ -1,0 +1,10 @@
+{
+  "name": "Last Viewed Dashlet",
+  "description": "Last Viewed Records Dashlet.",
+  "author": "Andrew Fontana",
+  "acceptableVersions": [
+    ">=7.0.0"
+  ],
+  "version": "1.0.0",
+  "releaseDate": "01/07/2023"
+}
